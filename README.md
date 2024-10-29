@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geraldobuseh
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Assembly Language and Web Development
+- 🌱 I love React.js and C++
 - 💞️ I’m looking to collaborate on user-facing projects
 - 📫 How to reach me : Email @ pa54377@truman.edu
 - 😄 Pronouns: He/Him
