@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I love React.js and C++
 - 💞️ I’m looking to collaborate on user-facing projects
-- 📫 How to reach me : Email @ pa54377@truman.edu
+- 📫 How to reach me : Email @ rdu25@txstate.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages
 
